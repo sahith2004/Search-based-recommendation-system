@@ -1,0 +1,13 @@
+uvicorn
+fastapi
+pinecone-client
+langchain-pinecone
+boto3
+langchain
+langchain-community
+llama-parse 
+fastembed
+qdrant_client
+python-dotenv
+fastembed
+unstructured[md]

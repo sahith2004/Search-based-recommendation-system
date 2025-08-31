@@ -1,0 +1,4 @@
+## testing 
+## write a python script go and query return proper response 
+## connect to trulens to test the rag 
+## 
